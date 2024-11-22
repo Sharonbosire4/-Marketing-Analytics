@@ -1,6 +1,7 @@
 # MY OBJECTIVE
 
 Examining...
+
 Performance of user acquisition channels. 
 monetization trends & patterns.
 Retention metrics across different networks, countries, and platforms.
