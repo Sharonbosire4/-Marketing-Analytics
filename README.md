@@ -50,8 +50,4 @@
 
 ---
 
-### **Outputs and Findings**
-(Add your findings or visualizations here to showcase the results, such as screenshots or links to dashboards.)
-
----
 
